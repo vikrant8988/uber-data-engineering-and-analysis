@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+The goal of this project is to analyze Uber data to uncover insights on tipping patterns, trip frequency, and fare dynamics. This analysis was conducted using a variety of tools and technologies, including : GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
 <img src="architecture.jpg">
@@ -30,3 +30,27 @@ More info about dataset can be found here:
 
 ## Data Model
 <img src="data_model.jpeg">
+
+## Key Insights :-
+
+-# Uber Data Analysis
+
+
+
+## Key Insights
+
+- **Payment Type and Tips**: Highest average tips were made by:
+  - **Cash**, followed by **Credit Card**
+  
+- **Top Pickup Locations (by Trip Frequency)**:
+  - **International Toy Center, New York**
+  - **Francis Lewis Boulevard, New York** (converted from latitude/longitude)
+
+- **Top Passenger Counts**:
+  - **1 passenger**: 65,493 trips
+  - **2 passengers**: 13,709 trips
+
+- **Average Fare by Hour**:
+  - **4 AM**: $16
+  - **2 PM**: $15
+
