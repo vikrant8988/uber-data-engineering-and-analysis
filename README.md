@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project is to analyze Uber data to uncover insights on tipping patterns, trip frequency, and fare dynamics. This analysis was conducted using a variety of tools and technologies, including : GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+The goal of this project is to analyze Uber data to uncover insights on tipping patterns, trip frequency, and fare dynamics. This analysis was conducted using a variety of tools and technologies, including : GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, SQL and Looker Studio.
 
 ## Architecture 
 <img src="architecture.jpg">
